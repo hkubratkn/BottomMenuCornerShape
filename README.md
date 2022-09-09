@@ -1,3 +1,3 @@
 # BottomMenuCornerShape
 
-<img src="images/corner.jpg" />
+<img src="images/mm.jpg" />
