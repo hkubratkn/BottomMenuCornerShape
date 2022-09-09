@@ -6,4 +6,5 @@ object Constants {
     const val COMPLETED_FIELD = "completed"
     const val DATE_FIELD = "date"
     const val EMAIL_FIELD = "email"
+    const val TAG = "jtjtjt"
 }
